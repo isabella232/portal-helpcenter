@@ -52,7 +52,7 @@ The SSH key access is **not immediate**. Initially, the status will be `Pending 
 ![Import IP range](../img/add_ip_range_flexibility.jpg)
 
 ::: info
-The SSH key access is **not immediate**. Initially, the status will be `Pending creation` and then change to `Activated` once the access is given.
+The IP Range access is **not immediate**. Initially, the status will be `Pending creation` and then change to `Activated` once the access is given.
 :::
 
 # Remove access to the flexibility Cloud server
