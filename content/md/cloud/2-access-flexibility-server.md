@@ -67,7 +67,7 @@ The IP Range access is **not immediate**. Initially, the status will be `Pending
 ![Remove ssh key access](../img/remove_cloud_key_access.jpg)
 
 ::: info
-The SSH key removal is **not immediate**. Initially, the status will be `Pending deletion` and then will disappear from the list once deleted.
+The SSH key access removal is **not immediate**. Initially, the status will be `Pending deletion` and then will disappear from the list once deleted.
 :::
 
 ## Removing an IP Range from the access
@@ -80,5 +80,5 @@ The SSH key removal is **not immediate**. Initially, the status will be `Pending
 ![Remove IP range access](../img/remove_ip_range.jpg)
 
 ::: info
-The IP Range removal is **not immediate**. Initially, the status will be `Pending deletion` and then will disappear from the list once deleted.
+The IP Range access removal is **not immediate**. Initially, the status will be `Pending deletion` and then will disappear from the list once deleted.
 :::
